@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shuvo7102
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C, C++ & Python
+- 💞️ I’m looking to collaborate on Arduino, Raspberry Pi & ROS
 - 📫 How to reach me ...
 
 <!---
